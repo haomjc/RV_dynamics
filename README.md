@@ -1,1 +1,9 @@
 # RV_dynamics
+
+伴随工业机器人产业现代化程度的不断提升，不仅需要考虑RV减速器的静态机械性能，对其动态特性的要求也愈发提升。对上一节经参数优化后的一体化结构RV减速器动态特性的分析研究，关键前提是建立动力学模型。由于一体化结构RV减速器的结构较为复杂，影响动态特性的因素互相关联，因此有必要建立更精准，更全面的动力学模型，对经优化后的减速器动态特性进行初步评估。
+已有前人对RV减速器的动态运行特性进行了大量的研究，但常常在对复杂机构简化分析时，由于简化方法不同及侧重点不同造成分析结果的一定差距。本章着重分析系统的时变啮合刚度、部件间的阻尼、零件间的间隙及误差对一体化结构RV减速器传动误差的影响，并模拟分析了一二级传动误差对整机动力特性的影响，采用SciPy工具包实现了动力学分析模块的集成。
+
+Along with the increasing modernization of the industrial robotics industry, there is a need to consider not only the static mechanical properties of the RV reducer, but also the increasing requirements for its dynamic characteristics. The key prerequisite for the analysis and study of the dynamic characteristics of the integrated structure RV reducer after the parameter optimization in the previous section is the establishment of the dynamics model. Since the structure of the integrated structure RV reducer is complex and the factors affecting the dynamic characteristics are interrelated, it is necessary to establish a more accurate and comprehensive dynamics model for the preliminary evaluation of the dynamic characteristics of the optimized reducer.
+A lot of research has been done on the dynamic operation characteristics of RV gearboxes, but the results are often different due to different simplification methods and different focus when the complex mechanism is simplified and analyzed. This chapter focuses on the effects of the time-varying meshing stiffness of the system, the damping between components, the clearance and errors between parts on the transmission errors of the integrated structure RV reducer, and simulates and analyzes the effects of the primary and secondary transmission errors on the dynamic characteristics of the whole machine, and uses the SciPy toolkit to realize the integration of the dynamics analysis module.
+
+DOI: 10.27670/d.cnki.gcqdu.2020.001564
